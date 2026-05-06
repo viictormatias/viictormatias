@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-viictormatias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viictormatias/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-viictormatias.github.io-b40f0f?style=flat-square&logo=vercel&logoColor=white)](https://viictormatias.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-portfolio--victor--matias.vercel.app-b40f0f?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-victor-matias.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-vmatiasdev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vmatiasdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5551991975906)
 
@@ -96,7 +96,7 @@ Minha abordagem foca em soluções **escaláveis** e de **alta performance** ada
 
 **Disponível para novos projetos**
 
-[vmatiasdev@gmail.com](mailto:vmatiasdev@gmail.com) &nbsp;·&nbsp; [viictormatias.github.io](https://viictormatias.github.io)
+[vmatiasdev@gmail.com](mailto:vmatiasdev@gmail.com) &nbsp;·&nbsp; [portfolio-victor-matias.vercel.app](https://portfolio-victor-matias.vercel.app/)
 
 </div>
 
