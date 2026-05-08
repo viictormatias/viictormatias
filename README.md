@@ -1,61 +1,57 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b40f0f&height=220&section=header&text=Victor%20Matias&fontSize=62&fontColor=dedede&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20AI%20Orchestrator&descAlignY=60&descSize=20&fontFamily=Anton" width="100%"/>
-
-```text
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#&&&&&&&&&&&&&&&&&&&(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@%&&@@@@&&&&&&&&&&&@@@&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@&&@@@@&&%%%#((////((((#&@@&&&%%%*@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@&@@@@%#((/////********////(#@@&%%%@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@%&&&&((////***************////#&&&%&@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@&&@@&((/////***//*************/(%&&&&#@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@%&@@%#(///////////*///********/#%&@&&#@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@%&@&%(((((/(%#(//*****/((((/////(&@&&&@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@%&&#((##((//((((//**//(((/////#//(&&&%@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@&&@#((((%%&@&####//*/(%#&@%&#(///(&&%@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@%&%((((((((####((///((((((///////&&///@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@&%((%(((/////(((((///////////****/(&/*//@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@#/#%((////*/(#((#(//((//((/*****//%(//(@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@(##%#(/////(/(%%%((/(%%%(//#/*//(#%(//@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@/(%%%%#(%@&&&%%%#((#((##%&%%/(##%#*/@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@#&&&&#%#(&%/,,*,,..*(#///(#&%&%%@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&%#(((((/((//**/***(#%&&%&@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@%&@@@&&%%(((##%%#/**/(%&%&&&@&@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@&@@&&@&%&%%%#(###%#&&&&&@/@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@,(&@@@@@@&&&&&&&&@&@@@&(/(@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@/(###&@@@@@@@@@@@@@&%((//@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@((((((#(((##%&##//((/////@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@#(((((//(/(((((***/(///**////@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@/&@@%(((((((//////(//(///////**////////&@%@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@/&@@@@@@@@@@(/(((///////////*/*//***/////////%&@@@/*%/@@@@@@@@@@@@@@
-@@@%&@@@@@@@@@@@@@@@@@@@@@&#(////////////////**//***///%&@@@@@@@@@@@@%****#@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&(((///////////*//**/%@@@@@@@@@@@@@@@@@@@@@@@@@@(%
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-viictormatias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viictormatias/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-portfolio--victor--matias.vercel.app-b40f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-victor-matias.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-vmatiasdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmatiasdev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551991975906)
-
 </div>
 
----
-
-### `> Sobre Mim`
-
-Sou um **Desenvolvedor Full Stack** e **Orquestrador de IA** apaixonado por transformar desafios complexos em soluções digitais elegantes. Utilizo o poder da **Inteligência Artificial** para acelerar o desenvolvimento, garantindo código limpo, escalável e de alta performance.
-
-Minha abordagem combina visão técnica com foco no negócio, priorizando a **experiência do usuário (UX)** e a **acessibilidade** em cada linha de código.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viictormatias&show_icons=true&theme=tokyonight&hide_border=true&title_color=b40f0f&icon_color=00bcf0&text_color=dedede" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictormatias&layout=compact&theme=tokyonight&hide_border=true&title_color=b40f0f&text_color=dedede" height="170"/>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="left" valign="top" width="400">
+      <pre align="left">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@#&&&&&&&&&&&&&(@@@@@@@@@@@@@
+@@@@@@@@@%&&@@@@&&&&&&&@@&&&&&&@@@@@@@@@
+@@@@@@@&&@@@@&&%%#((((#&@@&&%%*@@@@@@@@@
+@@@@@@&@@@@%#((//***//(#@@&%%@@@@@@@@@@@
+@@@@@%&&&&((//*******//#&&&%&@@@@@@@@@@@
+@@@@&&@@&((//**//****/(%&&&&#@@@@@@@@@@@
+@@@@%&@@%#(////*///**/#%&@&&#@@@@@@@@@@@
+@@@@%&@&%((((%#/**((//(&@&&&@@@@@@@@@@@@
+@@@@%&&#((##/((/**((//#//(&&&%@@@@@@@@@@
+@@@@&&@#((%&@&#/*(%@%#(//(&&%@@@@@@@@@@@
+@@@@@%&%((((###((((((////&&///@@@@@@@@@@
+@@@@&%((%(((///((((*******/(&/*//@@@@@@@
+@@@@@#/#%((//*/(#((#(//(/**//%(//(@@@@@@
+@@@@@(##%#(///(/(%%%((/%%(/*//(#%(//@@@@
+@@@@@@/(%%%%#(%@&&&%%#((##%&%%/(##%#*/@@
+@@@@@@@@#&&&&#%#(&%/,,*,,..*(#///(#&%&%%
+@@@@@@@@@@&&&&&%#(((((/((//**/***(#%&&%&
+@@@@@@@@@@%&@@@&&%%(((##%%#/**/(%&%&&&@&
+@@@@@@@@@@@@&@@&&@&%&%%%#(###%#&&&&&@/@@
+@@@@@@@@@@@@@,(&@@@@@@&&&&&&&&@&@@@&(/(
+@@@@@@@@@@@@@/(###&@@@@@@@@@@@@@&%((//@@
+@@@@@@@@@@@@@((((((#(((##%&##//((/////@@
+@@@@@@@@@@@@#(((((//(/(((((***/(///**///
+      </pre>
+    </td>
+    <td align="left" valign="top">
+      <h3><code>> Sobre Mim</code></h3>
+      <p>
+        Sou um <b>Desenvolvedor Full Stack</b> e <b>Orquestrador de IA</b> apaixonado por transformar desafios complexos em soluções digitais elegantes. 
+      </p>
+      <p>
+        Utilizo o poder da <b>Inteligência Artificial</b> para acelerar o desenvolvimento, garantindo código limpo, escalável e de alta performance.
+      </p>
+      <p>
+        Minha abordagem combina visão técnica com foco no negócio, priorizando a <b>experiência do usuário (UX)</b> e a <b>acessibilidade</b>.
+      </p>
+      <br/>
+      <div align="left">
+        <a href="https://www.linkedin.com/in/viictormatias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="https://portfolio-victor-matias.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-b40f0f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,15 +69,10 @@ Minha abordagem combina visão técnica com foco no negócio, priorizando a **ex
 
 ---
 
-### `> Trajetória Profissional`
-
-```bash
-# Linha do tempo simplificada
-$ history | tail -n 3
-  1  Full Stack Developer   @ eGestor           (Set 2025 - Presente)
-  2  GoHighLevel Specialist @ Click Grow Space  (Dez 2025 - Fev 2026)
-  3  E-commerce Developer   @ Lojas Benoit      (Dez 2023 - Fev 2025)
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viictormatias&show_icons=true&theme=tokyonight&hide_border=true&title_color=b40f0f&icon_color=00bcf0&text_color=dedede" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictormatias&layout=compact&theme=tokyonight&hide_border=true&title_color=b40f0f&text_color=dedede" height="170"/>
+</div>
 
 ---
 
