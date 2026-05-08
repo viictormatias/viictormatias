@@ -1,103 +1,102 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b40f0f&height=220&section=header&text=Victor%20Matias&fontSize=62&fontColor=dedede&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20AI%20Orchestrator&descAlignY=60&descSize=20&fontFamily=Anton" width="100%"/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-viictormatias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viictormatias/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-portfolio--victor--matias.vercel.app-b40f0f?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-victor-matias.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-vmatiasdev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vmatiasdev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5551991975906)
-
-</div>
-
----
-
-## `> Olá, eu sou o Victor.`
-
-Sou um **Desenvolvedor Full Stack** e **Orquestrador de IA**, utilizando inteligência artificial para atingir a máxima performance e qualidade no desenvolvimento de sistemas.
-
-Minha abordagem foca em soluções **escaláveis** e de **alta performance** adaptadas tanto às necessidades do usuário quanto aos objetivos de negócio. Priorizo performance, acessibilidade e responsividade para entregar experiências que engajam e geram resultados.
-
-<br/>
-
-<div align="center">
-
-|  🗓️ Experiência  |  🚀 Projetos  |  ⚙️ Tecnologias  |
-|:---:|:---:|:---:|
-| **3+ anos** | **53+ concluídos** | **10+ dominadas** |
-
-</div>
-
----
-
-## `> Minha Stack`
-
-**Frontend**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Banco de Dados**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Ferramentas & IA**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AI / LLM](https://img.shields.io/badge/AI%20%2F%20LLM-b40f0f?style=flat-square&logo=openai&logoColor=white)
-![API Integration](https://img.shields.io/badge/API%20Integration-00bcf0?style=flat-square&logo=fastapi&logoColor=white)
-
----
-
-## `> Minha Experiência`
-
-```
-◉  Full Stack Developer       │ eGestor           │ set 2025 → presente
-◉  GoHighLevel Specialist     │ Click Grow Space  │ dez 2025 → fev 2026
-◉  E-commerce / Dev Frontend  │ Lojas Benoit      │ dez 2023 → fev 2025
+```text
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#&&&&&&&&&&&&&&&&&&&(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@%&&@@@@&&&&&&&&&&&@@@&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@&&@@@@&&%%%#((////((((#&@@&&&%%%*@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@&@@@@%#((/////********////(#@@&%%%@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@%&&&&((////***************////#&&&%&@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@&&@@&((/////***//*************/(%&&&&#@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@%&@@%#(///////////*///********/#%&@&&#@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@%&@&%(((((/(%#(//*****/((((/////(&@&&&@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@%&&#((##((//((((//**//(((/////#//(&&&%@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@&&@#((((%%&@&####//*/(%#&@%&#(///(&&%@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@%&%((((((((####((///((((((///////&&///@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@&%((%(((/////(((((///////////****/(&/*//@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@#/#%((////*/(#((#(//((//((/*****//%(//(@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@(##%#(/////(/(%%%((/(%%%(//#/*//(#%(//@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@/(%%%%#(%@&&&%%%#((#((##%&%%/(##%#*/@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@#&&&&#%#(&%/,,*,,..*(#///(#&%&%%@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&%#(((((/((//**/***(#%&&%&@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@%&@@@&&%%(((##%%#/**/(%&%&&&@&@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@&@@&&@&%&%%%#(###%#&&&&&@/@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@,(&@@@@@@&&&&&&&&@&@@@&(/(@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@/(###&@@@@@@@@@@@@@&%((//@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@((((((#(((##%&##//((/////@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@#(((((//(/(((((***/(///**////@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@/&@@%(((((((//////(//(///////**////////&@%@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@/&@@@@@@@@@@(/(((///////////*/*//***/////////%&@@@/*%/@@@@@@@@@@@@@@
+@@@%&@@@@@@@@@@@@@@@@@@@@@&#(////////////////**//***///%&@@@@@@@@@@@@%****#@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&(((///////////*//**/%@@@@@@@@@@@@@@@@@@@@@@@@@@(%
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
----
-
-## `> Projetos Selecionados`
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**Farwest Game**](https://farwest-game.vercel.app/) | RPG western com engine de jogo, combate e banco de dados relacional | `TypeScript` `Python` `PostgreSQL` |
-| [**eGestorito**](https://github.com/viictormatias/egestorito) | Chat agêntico integrado ao sistema eGestor via API com IA | `Python` `AI/LLM` `API` |
-| [**ALVO**](https://alvopitstop.com.br/) | Site institucional para associação social em Manaus | `HTML` `CSS` `JavaScript` |
-| [**GestorAgro**](https://gestoragronegocios.com.br/) | Site para escritório de gestão rural e tributário (MATOPIBA) | `HTML` `CSS` `JavaScript` |
-| [**Belo Sul Viagens**](https://www.belosul.tur.br/) | Site para agência de viagens com destinos e pacotes turísticos | `HTML` `CSS` |
-
-> 📦 **+48 sites e landing pages** desenvolvidos para clientes de diversos segmentos — [entre em contato](mailto:vmatiasdev@gmail.com) para saber mais.
-
----
-
-## `> GitHub Stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=viictormatias&show_icons=true&bg_color=212121&title_color=b40f0f&icon_color=00bcf0&text_color=dedede&border_color=3d3d3d&hide_border=false&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictormatias&layout=compact&bg_color=212121&title_color=b40f0f&text_color=dedede&border_color=3d3d3d" height="170"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-viictormatias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viictormatias/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-portfolio--victor--matias.vercel.app-b40f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-victor-matias.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-vmatiasdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmatiasdev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551991975906)
 
 </div>
 
 ---
 
+### `> Sobre Mim`
+
+Sou um **Desenvolvedor Full Stack** e **Orquestrador de IA** apaixonado por transformar desafios complexos em soluções digitais elegantes. Utilizo o poder da **Inteligência Artificial** para acelerar o desenvolvimento, garantindo código limpo, escalável e de alta performance.
+
+Minha abordagem combina visão técnica com foco no negócio, priorizando a **experiência do usuário (UX)** e a **acessibilidade** em cada linha de código.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viictormatias&show_icons=true&theme=tokyonight&hide_border=true&title_color=b40f0f&icon_color=00bcf0&text_color=dedede" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictormatias&layout=compact&theme=tokyonight&hide_border=true&title_color=b40f0f&text_color=dedede" height="170"/>
+</div>
+
+---
+
+### `> Stack Tecnológica`
+
 <div align="center">
 
-**Disponível para novos projetos**
-
-[vmatiasdev@gmail.com](mailto:vmatiasdev@gmail.com) &nbsp;·&nbsp; [portfolio-victor-matias.vercel.app](https://portfolio-victor-matias.vercel.app/)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| **AI & Tools** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b40f0f&height=100&section=footer" width="100%"/>
+---
+
+### `> Trajetória Profissional`
+
+```bash
+# Linha do tempo simplificada
+$ history | tail -n 3
+  1  Full Stack Developer   @ eGestor           (Set 2025 - Presente)
+  2  GoHighLevel Specialist @ Click Grow Space  (Dez 2025 - Fev 2026)
+  3  E-commerce Developer   @ Lojas Benoit      (Dez 2023 - Fev 2025)
+```
+
+---
+
+### `> Projetos em Destaque`
+
+| Projeto | Preview | Link |
+| :--- | :--- | :--- |
+| **Farwest Game** | 🤠 RPG Western Engine | [Visualizar](https://farwest-game.vercel.app/) |
+| **eGestorito** | 🤖 Agente IA eGestor | [GitHub](https://github.com/viictormatias/egestorito) |
+| **ALVO** | 🎯 Social Hub Manaus | [Website](https://alvopitstop.com.br/) |
+| **GestorAgro** | 🚜 Gestão Rural | [Website](https://gestoragronegocios.com.br/) |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b40f0f&height=100&section=footer" width="100%"/>
+  <p><i>"A tecnologia é melhor quando aproxima as pessoas."</i></p>
+</div>
