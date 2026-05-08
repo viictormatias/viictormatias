@@ -2,52 +2,63 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b40f0f&height=220&section=header&text=Victor%20Matias&fontSize=62&fontColor=dedede&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20AI%20Orchestrator&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
-<table align="center" border="0">
-  <tr>
-    <td align="left" valign="top">
-      <pre align="left">
-                                                  
-                                                  
-                   ........ .....                 
-                ..  ..*/////*,.  ..,              
-               .  */(((######((((..,              
-              ,  //((#(((########/...             
-              .../(((((((######(((,../            
-              ,./*//(/*/(##(/((((/(..             
-               .///*//**/((/**/((((../            
-              /////(((//(##((#####(.#(            
-              **,/((((/,*//*,(((#(/,((            
-               /...*, ,#%%%%#**,/,,*              
-                ,...*//(((((/#(*...               
-                 .  ..,,*///**...                 
-                  /*   .. ..   ,(#                
-                  ///**/*,,//(((((                
-             .*/////(((//(((/(#((((               
-      #,       .///(((((((((##((((((.   ##        
-,                  /((((((((((##(               . 
-                                                  
-      </pre>
-    </td>
-    <td align="left" valign="top">
-      <h3><code>> Sobre Mim</code></h3>
-      <p>
-        Sou um <b>Desenvolvedor Full Stack</b> e <b>Orquestrador de IA</b> apaixonado por transformar desafios complexos em soluções digitais elegantes. 
-      </p>
-      <p>
-        Utilizo o poder da <b>Inteligência Artificial</b> para acelerar o desenvolvimento, garantindo código limpo, escalável e de alta performance.
-      </p>
-      <p>
-        Minha abordagem combina visão técnica com foco no negócio, priorizando a <b>UX</b> e a <b>acessibilidade</b>.
-      </p>
-      <br/>
-      <div align="left">
-        <a href="https://www.linkedin.com/in/viictormatias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-        <a href="https://wa.me/5551991975906"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-        <a href="https://portfolio-victor-matias.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-b40f0f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<pre>
+                                          (...........  .*                      
+                                     .... . ..... . .. .. .....,..              
+                                  ... .   ...............   .  ......,          
+                                ....    ...,**/*////////**,... . ....,,,        
+                              ,. .   ..,*///(((((##(##(((((((*,. ....,,,        
+                             ..  . .*//(((((((############(((((((/. .,,,        
+                            ..... *///(((((##################(((((/. .....      
+                            ,.   *///((((##((#((((#(#############(/,...,..      
+                            ,.  .,//(((((((((((((((((((##########(*,.....,,     
+                           ......*//(((/(((((#(#(############((((((/,....,/     
+                            ,. .*////*,....,,*(#######/*,...,,,**((((,....,     
+                            , .,//**///((///**//((###((///(((((((//((*....      
+                            ,. ,/////**.. ./,*,*/(((((/,,// ,,,/(((((*..,*      
+                             ,.,/////**/////*,**//((((/****//((((((((*...//     
+                           */*..///////(/////////((((((((((((((((((((/.(((((    
+                           */(/./////((((((/////((###(((((#(#######(((.(##((    
+                           (//*,*//(((##((/**/* ./((*.,*(((/((####(((*,((#//    
+                            ***,,//((((((/(//,,,*//(/**,,,(((,(##(((/*,((/(     
+                            /(/,.****/(,.........*/(*,/*,,,,,,,/((**,*,##(      
+                             (//.....**.,, .,*#/%#%#%(%(#(* **,(/*,,,,*         
+                                .,....,*/((/***/////(/((/((##((*,...,./         
+                                ,.......**///(((((((((((/###(/*,......          
+                                 .. . ....,*///**,.**/(#(#(/,.,,... .           
+                                  .. .  . .,,,,,**/////****,...... ,            
+                                   (*       .....,..,,.,.....   ,/(             
+                                   %//*.      . .   ...       ,/((#             
+                                   (////**.              ..**/((((%             
+                                   ///////****/***,.,*/(/((/(((((((             
+                                 /////////(/////((#(##(((((((((((((             
+                         *. *////////(/((((((/////((((((/((###(((((((/          
+                   #,.      ,/(/////(((((((((///((((((((((##((((((((((((*...,/  
+            ##,               .//////((((((((((((((((#((#(##(((((((((((,.   ##%#
+    ,.                           ,*/((((((((((((((((((((##((((##((((/..          
+,.                                   */((/((((((((((((((((((####(,               
+                                          .,/((((((((((((/..                    
+</pre>
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/viictormatias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/5551991975906"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://portfolio-victor-matias.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-b40f0f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+---
+
+### `> Sobre Mim`
+
+Sou um **Desenvolvedor Full Stack** e **Orquestrador de IA** apaixonado por transformar desafios complexos em soluções digitais elegantes.
+
+Utilizo o poder da **Inteligência Artificial** para acelerar o desenvolvimento, garantindo código limpo, escalável e de alta performance.
+
+Minha abordagem combina visão técnica com foco no negócio, priorizando a **UX** e a **acessibilidade**.
 
 ---
 
