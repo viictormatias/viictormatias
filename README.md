@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=b40f0f&center=true&vCenter=true&width=600&lines=Victor+Matias;Full+Stack+Developer;AI+Orchestrator" alt="Typing SVG" />
 </div>
 
+<div align="center"><table><tr><td>
 <pre>
                               (...........  .*                      
                          .... . ..... . .. .. .....,..              
@@ -39,6 +40,7 @@
 ,.                                   */((/((((((((((((((((((####(,               
                               .,/((((((((((((/..                    
 </pre>
+</td></tr></table></div>
 
 <div align="center">
 
