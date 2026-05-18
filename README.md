@@ -98,10 +98,3 @@ Minha abordagem combina visão técnica com foco no negócio, priorizando a **UX
 | **eGestorito** | Agente IA eGestor | [GitHub](https://github.com/viictormatias/egestorito) |
 | **CallScribe Web** | Transcritor de Reuniões com IA | [GitHub](https://github.com/viictormatias/callscribe-web) |
 | **ALVO** | Social Hub Manaus | [Website](https://alvopitstop.com.br/) |
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=b40f0f&center=true&vCenter=true&width=600&lines=A+tecnologia+%C3%A9+melhor+quando+aproxima+as+pessoas." alt="footer quote" />
-  <p><i>"A tecnologia é melhor quando aproxima as pessoas."</i></p>
-</div>
