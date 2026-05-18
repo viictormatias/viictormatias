@@ -102,6 +102,6 @@ Minha abordagem combina visão técnica com foco no negócio, priorizando a **UX
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=b40f0f&center=true&vCenter=true&width=600&lines=A+tecnologia+é+melhor+quando+aproxima+as+pessoas." alt="footer quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=b40f0f&center=true&vCenter=true&width=600&lines=A+tecnologia+%C3%A9+melhor+quando+aproxima+as+pessoas." alt="footer quote" />
   <p><i>"A tecnologia é melhor quando aproxima as pessoas."</i></p>
 </div>
