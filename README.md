@@ -84,6 +84,10 @@ Minha abordagem combina visão técnica com foco no negócio, priorizando a **UX
   <img src="https://streak-stats.demolab.com/?user=viictormatias&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </div>
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub Profile 3D Contrib" />
+</div>
+
 ---
 
 ### `> Projetos em Destaque`
