@@ -77,8 +77,11 @@ Minha abordagem combina visão técnica com foco no negócio, priorizando a **UX
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=viictormatias&show_icons=true&theme=tokyonight&hide_border=true&title_color=b40f0f&icon_color=00bcf0&text_color=dedede" height="170"/>
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=viictormatias&layout=compact&theme=tokyonight&hide_border=true&title_color=b40f0f&text_color=dedede" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=viictormatias&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Github Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=viictormatias&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170"/>
 </div>
 
 ---
@@ -89,8 +92,8 @@ Minha abordagem combina visão técnica com foco no negócio, priorizando a **UX
 | :--- | :--- | :--- |
 | **Farwest Game** | RPG Western Engine | [Visualizar](https://farwest-game.vercel.app/) |
 | **eGestorito** | Agente IA eGestor | [GitHub](https://github.com/viictormatias/egestorito) |
+| **CallScribe Web** | Transcritor de Reuniões com IA | [GitHub](https://github.com/viictormatias/callscribe-web) |
 | **ALVO** | Social Hub Manaus | [Website](https://alvopitstop.com.br/) |
-| **GestorAgro** | Gestão Rural | [Website](https://gestoragronegocios.com.br/) |
 
 ---
 
