@@ -85,7 +85,7 @@ Minha abordagem combina visão técnica com foco no negócio, priorizando a **UX
 </div>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub Profile 3D Contrib" />
+  <img src="https://raw.githubusercontent.com/viictormatias/viictormatias/main/profile-3d-contrib/profile-night-view.svg" alt="GitHub Profile 3D Contrib" />
 </div>
 
 ---
